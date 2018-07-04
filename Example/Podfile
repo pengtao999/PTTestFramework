@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PTTestFramework_Example' do
+  pod 'PTTestFramework', :path => '../'
+
+  target 'PTTestFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
