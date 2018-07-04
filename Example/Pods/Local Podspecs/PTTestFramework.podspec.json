@@ -1,0 +1,22 @@
+{
+  "name": "PTTestFramework",
+  "version": "0.1.0",
+  "summary": "A short description of PTTestFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pengtao999/PTTestFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pengtao999": "pengtao999888@163.com"
+  },
+  "source": {
+    "git": "https://github.com/pengtao999/PTTestFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PTTestFramework/Classes/**/*"
+}

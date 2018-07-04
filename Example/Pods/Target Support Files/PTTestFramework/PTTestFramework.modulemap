@@ -1,0 +1,6 @@
+framework module PTTestFramework {
+  umbrella header "PTTestFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

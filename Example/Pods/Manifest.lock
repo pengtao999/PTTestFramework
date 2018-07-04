@@ -1,0 +1,16 @@
+PODS:
+  - PTTestFramework (0.1.0)
+
+DEPENDENCIES:
+  - PTTestFramework (from `../`)
+
+EXTERNAL SOURCES:
+  PTTestFramework:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PTTestFramework: 22d0d44ba661fb95c1d112eb04f58e047c561b1c
+
+PODFILE CHECKSUM: 5acb15ecf17253977858967347fa27fd60c28745
+
+COCOAPODS: 1.4.0
